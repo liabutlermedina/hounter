@@ -31,7 +31,7 @@ export default () => {
       </div>
       <div className='space-y-3'>
         <div className=''>
-          <img src={roseland} alt='' className='' />
+          <img src={roseland} alt='' className='mx-auto' />
         </div>
         <div className='|'>
           <div className='flex items-start justify-between'>
@@ -59,7 +59,7 @@ export default () => {
       </div>
       <div className='space-y-3'>
         <div className=''>
-          <img src={woodland} alt='' className='' />
+          <img src={woodland} alt='' className='mx-auto' />
         </div>
         <div className='|'>
           <div className='flex items-start justify-between'>
@@ -87,7 +87,7 @@ export default () => {
       </div>
       <div className='space-y-3'>
         <div className=''>
-          <img src={lighthouse} alt='' className='' />
+          <img src={lighthouse} alt='' className='mx-auto' />
         </div>
         <div className='|'>
           <div className='flex items-start justify-between'>
