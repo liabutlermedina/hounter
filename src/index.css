@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  p,h1 {
+    margin-bottom: 0;
+  }
+}
+
+@layer components {
+}
+
+@layer utilities {
+  .text-outline {
+    color: '#1b1c57';
+    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: '#1b1c57';
+  }
+}
