@@ -46,7 +46,7 @@ export default () => {
       <div className='flex justify-between items-center mt-4'>
         <div className=''>
           <div className=''>
-            <img src={woodland} alt='' className='mb-3' />
+            <img src={woodland} alt='' className='mb-3 h-[498px]' />
           </div>
           <button className='font-Lexend font-medium text-darkBlue text-xl hover:text-green-500'>
             Roselands House
@@ -66,7 +66,7 @@ export default () => {
         </div>
         <div className=''>
           <div className=''>
-            <img src={roseland} alt='' className='mb-3' />
+            <img src={roseland} alt='' className='mb-3 h-[498px]' />
           </div>
           <button className='font-Lexend font-medium text-darkBlue text-xl hover:text-green-500'>
             Woodlandside
@@ -86,7 +86,7 @@ export default () => {
         </div>
         <div className=''>
           <div className=''>
-            <img src={lighthouse} alt='' className='mb-3' />
+            <img src={lighthouse} alt='' className='mb-3 h-[498px]' />
           </div>
           <button className='font-Lexend font-medium text-darkBlue text-xl hover:text-green-500'>
             The Old Lighthouse
